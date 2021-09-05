@@ -1,0 +1,1 @@
+Ejemplo de output según categoría.
